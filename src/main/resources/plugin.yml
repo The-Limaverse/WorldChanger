@@ -1,0 +1,7 @@
+name: WorldChanger
+version: '${project.version}'
+main: org.test.worldchanger.WorldChanger
+api-version: '1.20'
+load: STARTUP
+commands:
+  switchworld:
