@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="WorldChanger:jar">
-    <output-path>$PROJECT_DIR$/../../../../Other/Paper Servers/The Limaverse/HUNGER_GAMES/plugins</output-path>
+    <output-path>$PROJECT_DIR$/../../../../Other/Paper Servers/The Limaverse/BUILDING/plugins</output-path>
     <root id="archive" name="WorldChanger.jar">
       <element id="module-output" name="WorldChanger" />
     </root>

@@ -13,11 +13,11 @@ import org.test.worldchanger.WorldMap;
 import java.util.List;
 import java.util.logging.Level;
 
-public class SwichWorldCommand implements CommandExecutor, TabCompleter {
+public class SwitchWorldCommand implements CommandExecutor, TabCompleter {
     private final WorldChanger plugin;
     private final WorldMap map;
 
-    public SwichWorldCommand(WorldChanger plugin, WorldMap map) {
+    public SwitchWorldCommand(WorldChanger plugin, WorldMap map) {
         this.plugin = plugin;
         this.map = map;
         plugin.getCommand("switchworld").setExecutor(this);

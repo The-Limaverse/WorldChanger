@@ -6,3 +6,4 @@ load: STARTUP
 commands:
   switchworld:
     permission: wc.admin
+  createworld:
